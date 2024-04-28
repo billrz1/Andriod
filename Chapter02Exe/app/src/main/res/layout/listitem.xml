@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/addTxt"
+        android:layout_width="212dp"
+        android:layout_height="wrap_content"></EditText>
+
+    <Button
+        android:id="@+id/changeBtn"
+        android:layout_width="83dp"
+        android:layout_height="wrap_content"
+        android:text="修改"></Button>
+
+    <Button
+        android:id="@+id/delBtn"
+        android:layout_width="83dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:text="删除" />
+</LinearLayout>

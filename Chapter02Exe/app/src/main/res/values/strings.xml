@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">简易计算器</string>
+    <string name="userName">用户名</string>
+    <string name="userPwd">密码</string>
+    <string name="userRepwd">确认密码</string>
+    <string name="userEmail">邮箱</string>
+</resources>

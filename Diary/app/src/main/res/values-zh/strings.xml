@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我要做计划&#160;</string>
+    <string name="menu_write">增加</string>
+    <string name="menu_cancel">取消</string>
+    <string name="error">出错!</string>
+    <string name="developing">功能还未开发</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="add_title_hint">日记标题</string>
+    <string name="add_title_description">日记内容</string>
+    <string name="btn_ok">提交</string>
+    <string name="add_success">更新成功</string>
+    <string name="add_failed">更新失败</string>
+    <string name="dialog_delete">是否删除</string>
+    <string name="input_password_text">输入密码</string>
+    <string name="input_password_hint">输入您的密码</string>
+    <string name="set_password_text">设置密码</string>
+    <string name="btn_enter_text">进入</string>
+    <string name="input_password_again_hint">再次输入密码</string>
+    <string name="take_photo_text">拍照</string>
+    <string name="open_album_text">打开相册</string>
+    <string name="cancel_text">取消</string>
+    <string name="user_name_hint">羊羊先生</string>
+    <string name="my_password_text">我的密码</string>
+    <string name="password_hide_text">***********</string>
+    <string name="setting_text">设置</string>
+    <string name="help_text">帮助</string>
+    <string name="help_phone_hint">电话: 400 600 000</string>
+    <string name="update_today_sights_text">更新今日美景</string>
+    <string name="experience_now_text">即刻体验</string>
+    <string name="password_is_not_empty_toast">密码不能为空!</string>
+    <string name="input_password_again_toast">请再次输入密码!</string>
+    <string name="password_twice_not_same_toast">两次密码不一致!</string>
+    <string name="login_success_toast">登录成功!</string>
+    <string name="password_is_not_correct_toast">密码不正确!</string>
+    <string name="take_photo_toast">准备拍照！</string>
+    <string name="pick_photo_toast">准备挑选照片!</string>
+    <string name="tree_hole_text">做你专属树洞</string>
+    <string name="keep_life_text">及时记录生活</string>
+    <string name="listen_you_text">倾听你的诉说</string>
+    <string name="menu_diary_text">日记</string>
+    <string name="menu_record_text">记录</string>
+    <string name="menu_mine_text">我的</string>
+</resources>
